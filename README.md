@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Iresha Udayangani</h1>
+<h1 align="center">Hi 👋, I'm Iresha</h1>
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **iudayangani914@gmail.com**
